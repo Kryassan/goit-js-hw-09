@@ -43,7 +43,7 @@ function onCloseModal() {
   originalImageEl.src = '';
 }
 
-// slider
+// slider__
 window.addEventListener('keydown', slideGallery);
 
 function slideGallery(e) {
